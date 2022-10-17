@@ -1,0 +1,7 @@
+requests
+streamlit
+typing_extensions
+pandas
+numpy
+tensorflow-cpu==2.8.2
+scikit-learn == 1.0.2

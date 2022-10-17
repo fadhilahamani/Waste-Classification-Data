@@ -1,0 +1,5 @@
+- Link url dataset:
+https://www.kaggle.com/datasets/techsash/waste-classification-data
+
+- Link url model deployment:
+https://waste-classification-data.herokuapp.com/
